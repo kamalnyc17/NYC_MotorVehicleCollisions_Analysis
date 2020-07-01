@@ -1,9 +1,10 @@
-# DataAnalytics Project
+# NYC Motor Vehicle Collisions & Crashes Analysis
 # Scope of the Project
 ## Our goal is to determine the effect of various traffic related changes in NYC Motor Vehicle Collisions during the past decade
 ### Some of the noteworthy changes in NYC since 2011 are:-
 #### Launch of Uber, Lyft and other ride share program in May 2011
 #### Citibikes was launched in May 2013
+#### Green Cab (or Boro Taxi) was launched in the summer of 2013.
 #### NYC speed limits were reduced from 30 mph to 25 mph in November 2014
 
 ## Being New Yorkers, we wanted to find out:-
